@@ -8,6 +8,11 @@ public class sum{
         System.out.println(sum);
         System.out.println(a*b);
         System.out.println("hello");
+<<<<<<< HEAD
         System.out.println("jayu");
+=======
+         System.out.println("raju");
+
+>>>>>>> feature-1
     }
 }
